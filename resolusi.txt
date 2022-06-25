@@ -5,3 +5,4 @@ Tech stack: Kotlin/Java, SQL
 3. Menyelesaikan hackerrank soal
 4. Mempelajari dan mengerjakan projek multithread
 5. Rutin melakukan olahraga
+6. Melihat peluang lain
