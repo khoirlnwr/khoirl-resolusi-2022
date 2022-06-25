@@ -3,3 +3,4 @@ Daftar resolusi Khoirul
 Tech stack: Kotlin/Java, SQL
 2. Membeli motor 
 3. Merenovasi rumah
+4. Berpengalaman dengan Microservices
