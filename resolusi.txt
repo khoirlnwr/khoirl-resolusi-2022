@@ -2,5 +2,5 @@ Daftar resolusi Khoirul
 1. Menjadi software engineer 
 Tech stack: Kotlin/Java, SQL
 2. Membeli motor 
-3. Merenovasi rumah
-4. Berpengalaman dengan Microservices
+3. Berpengalaman dengan Microservices
+4. Menyelesaikan hackerrank soal
