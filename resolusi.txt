@@ -4,3 +4,4 @@ Tech stack: Kotlin/Java, SQL
 2. Berpengalaman dengan Microservices
 3. Menyelesaikan hackerrank soal
 4. Rutin membuat artikel
+5. Mempelajari dan mengerjakan projek multithread
