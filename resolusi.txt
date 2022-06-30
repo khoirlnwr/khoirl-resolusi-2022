@@ -6,4 +6,5 @@ Tech stack: Kotlin/Java, SQL
 4. Mempelajari dan mengerjakan projek multithread
 5. Rutin melakukan olahraga
 6. Melihat peluang lain
-7. Menabung per bulan sebesar 2 Juta
+7. Mempelajari SQL dan Java
+8. Menabung per bulan sebesar 2 Juta
