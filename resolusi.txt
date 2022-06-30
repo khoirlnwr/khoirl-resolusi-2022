@@ -7,3 +7,4 @@ Tech stack: Kotlin/Java, SQL
 5. Rutin melakukan olahraga
 6. Melihat peluang lain
 7. Mempelajari SQL dan Java
+8. Menabung per bulan sebesar 2 Juta
